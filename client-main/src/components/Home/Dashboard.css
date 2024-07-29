@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+ 
+  
+  .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://thekensingtonfallschurch.com/wp-content/uploads/bigstock-Helping-Hands-45333739.jpg');
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px);
+    z-index: -1;
+  }
+  
+  .content {
+    position: relative;
+    z-index: 1;
+   
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .dashboard-container {
+   
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .event-image {
+    width: 100px; /* Adjust the size as needed */
+    height: auto;
+  }
+  
+  .input-box input {
+    width: 200px;
+  }
+  
+  .input-box button {
+    margin-top: -4px;
+  }
+  

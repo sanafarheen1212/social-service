@@ -1,0 +1,110 @@
+.title {
+    margin-bottom: 200px;
+    font-size:larger;
+    color:black /* White color for better contrast on dark background */
+  }
+  .events-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Event card styling */
+  .event-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent to show the blur effect */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Event title styling */
+  .event-title {
+    font-size: 1.5rem;
+    color: #007bff;
+  }
+  
+  /* Event date styling */
+  .event-date {
+    font-size: 1rem;
+    color: #eee;
+  }
+  
+  /* Event description styling */
+  .event-description {
+    font-size: 1rem;
+    color: #ddd;
+  }
+  
+  /* Event location styling */
+  .event-location {
+    font-size: 0.9rem;
+    color: #ccc;
+  }
+  
+  /* No events message styling */
+  .no-events {
+    margin-top: 120px;
+    font-size: 1.2rem;
+    color: #060505;
+  }
+  .title {
+    margin-top:120px;
+    font-size: 2rem;
+    color: black /* White color for better contrast on dark background */
+  }
+  
+  /* Events list styling */
+  .events-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Event card styling */
+  .event-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent to show the blur effect */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Event title styling */
+  .event-title {
+    font-size: 1.5rem;
+    color: #007bff;
+  }
+  
+  /* Event date styling */
+  .event-date {
+    font-size: 1rem;
+    color: #eee;
+  }
+  
+  /* Event description styling */
+  .event-description {
+    font-size: 1rem;
+    color: #ddd;
+  }
+  
+  /* Event location styling */
+  .event-location {
+    font-size: 0.9rem;
+    color: #ccc;
+  }
+  
+  /* No events message styling */
+  .no-events {
+    margin-top: 100px;
+    font-size: 1.2rem;
+    color: #080808;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
